@@ -1,7 +1,7 @@
 # Repositório de UI's em flutter
 
 
-Um projeto feito totalmente em flutter, com o intuito de obter conhecimento no framework...A ideia é popular esse repositório com várias UI's
+Um projeto feito totalmente em flutter, com o intuito de obter conhecimento sobre o framework focando na responsividade e novas tecnologias.
 
 Obs:
 ===
